@@ -17,7 +17,7 @@ Antes de fazer os desafios leia e entenda a visão do serviço e o Backlog, eles
 - **Backlog do Serviço**: Lista com tudo que é necessário para desenvolvimento do serviço (iHealthFood). O Backlog é o principal artefato para especificar os requisitos.
 
 **Visão de Negócio:**<BR>
-Recomendamos a leitura aprofundada dos arefatos de negócio, devem ser totalmente compreendidos, eles estão na pasta __Negócio__eles:
+Recomendamos a leitura aprofundada dos artefatos de negócio, devem ser totalmente compreendidos, eles estão na pasta <B>Negócio</B>:
 - **Business Story**: Declaração do Problema 
 - **Modelo de Negócio**: Mostra a lógica de negócio e como será gerado valor com iHealthFood
 - **Business Value**: Demonstra qual é valor de negócio que o iHealthFood deverá gerar.
