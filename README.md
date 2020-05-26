@@ -12,8 +12,7 @@
 O trabalho do Analista de Requisitos começa no momento que os artefatos: Visão e Backlog do Serviço estão prontos, geralmente este trabalho acontece em um Workshop de Requisitos para descobrir os requisitos, entender as pessoas, entender o negócio e especificar os requisitos. 
 O workshop deve ser colaborativo, ou seja, participam o Dono de Negócio, Desenvolvedores e Testadores de forma ativa.
 
-Contudo, aqui você trabalhará sozinho, isso é comum em algumas empresas, existe a opção de chamar seus amigos para ajuda-lo, antes
-de fazer os desafios leia e entenda a visão do serviço e o Backlog, eles estão na pasta de __Produto__:
+Antes de fazer os desafios leia e entenda a visão do serviço e o Backlog, eles estão na pasta de __Produto__:
 - **Visão do Serviço**: A visão, escopo do serviço, mostra de forma clara para quem é destinado o serviço, quais são as caracteristicas-chave e diferenciais de mercado. 
 - **Backlog do Serviço**: Lista com tudo que é necessário para desenvolvimento do serviço (iHealthFood). O Backlog é o principal artefato para especificar os requisitos.
 
@@ -33,11 +32,11 @@ apresentados abaixo:
 **Desafio-2 – Histórias do Usuário:** 
 - Escrever as histórias do usuário. 
 <template>
-Como [persona] posso [ação]
-para fazer meu [valor].
+Como [persona] posso fazer [ação]
+para [obter valor].
 
 Exemplo:
-“Como cliente posso fazer _login_ com e-mail e senha para fazer meu pedido.”
+“Como cliente posso fazer _login_ com e-mail e senha para fazer pedidos.”
 
 **Desafio-3 - Especificação de Requisitos (baseada em US e BDD):**<BR>
 - Fazer a especificação dos requisitos <BR>
