@@ -16,15 +16,14 @@ Antes de fazer os desafios leia e entenda a visão do serviço e o Backlog, eles
 - **Visão do Serviço**: A visão, escopo do serviço, mostra de forma clara para quem é destinado o serviço, quais são as caracteristicas-chave e diferenciais de mercado. 
 - **Backlog do Serviço**: Lista com tudo que é necessário para desenvolvimento do serviço (iHealthFood). O Backlog é o principal artefato para especificar os requisitos.
 
-Recomendamos a leitura dos arefatos de negócio devem ser lidos e compreendidos, eles estão na pasta __Negócio__ isso ajuda no entendimento dos requisitos, são eles:
+Recomendamos a leitura aprofundada dos arefatos de negócio, devem ser totalmente compreendidos, eles estão na pasta __Negócio__, são eles:
 - **Business Story**: Declaração do Problema 
 - **Modelo de Negócio**: Mostra a lógica de negócio e como será gerado valor com iHealthFood
 - **Business Value**: Demonstra qual é valor de negócio que o iHealthFood deverá gerar.
 - **Mapa de Fluxo de Valor**: Mostra quais as atividades devem ser feitas para garantir a geração de valor
 - **Regras de Negócio**: Apresenta todas as regras de negócio que devem ser aplicadas ao iHealthFood
 
-Para que você exercite suas habilidades de Análise de Requisitos de Software propomos 5 desafios 
-apresentados abaixo:
+Para que você exercite suas habilidades de Análise de Requisitos de Software propomos 5 desafios: 
 
 **Desafio-1 – Identificação dos itens do Backlog que devem ser especificados. Leve em consideração o nível de prioridade dos itens:**
 - Definir quais itens do Backlog de Serviço devem ser especificados.  
